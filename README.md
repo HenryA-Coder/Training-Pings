@@ -14,5 +14,6 @@ __How to install__
 9. Run the bot through VS Code or your VPS (python bot.py)
 
 **Please refer to this video if you get stuck** - https://youtu.be/jnMCHGb8Cis
+**Or join my discord and ask for help in here - https://discord.gg/9rGER64SKS
 
 *Henry*
